@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Omar Jaya",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -473,7 +473,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Price List &amp; Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Place To Go</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"http://keretasewamurahkuchinghq.wasap.my/\" target=\"_blank\">Book Here</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Price List &amp; Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Place To Go</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"http://keretasewamurahkuchinghq.wasap.my/\" target=\"_blank\">Book Here</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1162,7 +1162,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Price List &amp; Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Place To Go</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"http://keretasewamurahkuchinghq.wasap.my/\" target=\"_blank\">Book Here</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Price List &amp; Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Place To Go</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"http://keretasewamurahkuchinghq.wasap.my/\" target=\"_blank\">Book Here</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1254,7 +1254,7 @@
             }
           },
           "title": "Sarawak Cultural Village",
-          "text": "<p>Experience life in a traditional Sarawak village on this 4-hour tour from Kuching, including hotel pick-up. Learn about Sarawak’s diverse cultural heritage as you enjoy traditional ethnic dances and see demonstrations of handicrafts from bamboo carving to straw weaving. Watch the villagers go about their everyday lives, or get involved and learn how to shoot a Penan blowpipe or play an Orang Ulu sape.</p>",
+          "text": "<p>The Sarawak Cultural Village is a 45-minute drive from the city. This attraction is the best place for a tribal experience, and there are many traditional tribal buildings found at the cultural village, from simple nomadic shelters to native longhouses. Visitors will get to meet indigenous people from different tribes, including the Ibans, who were known to be headhunters over a century ago. Enter their dwellings for a hands-on experience with native crafts, primitive hunting weapons and other activities.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1309,8 +1309,8 @@
               "size": 0
             }
           },
-          "title": "Semonggoh Orangutan Rehabilitation Centre",
-          "text": "<p>Spare yourself lengthy jungle treks or painful public transport explorations and see orangutans in their natural habitat the easy way—on a guided door-to-door tour to the Semonggoh Nature Reserve. Learn how naturalists have helped these orange primates recover from captivity or injury, watch them enjoy their food—and maybe even catch sight of a mother and her baby. Choose between morning and afternoon tours.</p>",
+          "title": "Semenggoh Orangutan Rehabilitation Centre",
+          "text": "<p>For animal lovers who want to see orangutans, the Semenggok Wildlife Rehabilitation Centre is a sanctuary for wildlife as well as a rehabilitation centre for indigenous animals before they are released back to their natural rainforest habitat. This includes the conservation of endangered orangutans found in the wild. The populations of orangutans and other endangered species of animals in the jungles of Borneo are decreasing due to poaching, captivity and illegal logging activities that are destroying the natural habitats of these animals.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1366,7 +1366,7 @@
             }
           },
           "title": "Bako National Park",
-          "text": "<p>Explore the primary forest of Bako National Park on a day trip from Kuching to the Muara Tebas Peninsula, where you’ll find diverse plants, wildlife, and ecosystems. Travel by coach and boat to Bako National Park, watch for monkeys, lemurs, slow loris, and many more animals as you enter the forest, then enjoy a local-style lunch at the park’s canteen. With park entrance fees, transport, and lunch included, pickup and drop-off is available in Kuching and the Damai Peninsula, for a fascinating look at Sarawak’s wild side.</p>",
+          "text": "<p>About 37 km from Kuching is the Bako National Park, Sarawak's oldest national park, established in 1957. This location was the final pit stop in The Amazing Race Asia 2007. All the different types of plant life in Borneo can be found in this national park. A number of interesting wildlife animals like giant lizards, silvered langurs, long-tailed macaques, Bornean bearded pigs and the endangered proboscis monkey can also be seen here. The park is only accessible by boat from the village of Kampung Bako</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1422,7 +1422,7 @@
             }
           },
           "title": "Sarawak Jong's Crocodile Farm",
-          "text": "<p>A few minutes' walk from the Tua Pek Kong Temple and Kuching Waterfront is the Main Bazaar, which is one of the oldest streets in Kuching. The Main Bazaar area has a row of two-storey shophouses that runs parallel to the main road and the waterfront. These old shophouses were built before World War II. Here, visitors can find a variety of native handicraft items including necklaces, bags, wood sculptures, rattan mats, baskets, ceramics, pottery items and native hunting weapons.</p>",
+          "text": "<p>Fancy meeting up with some biggest alligators? Pay a visit to Jong's Crocodile Farm that is just 20 minutes' drive from Kuching. This 10-hectare attraction is the largest crocodile breeding farm in Malaysia. There is a demonstration on crocodile feeding that is not to be missed!</p><p>\n</p><p><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1680,7 +1680,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Price List &amp; Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Place To Go</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"http://keretasewamurahkuchinghq.wasap.my/\" target=\"_blank\">Book Here</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Price List &amp; Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Place To Go</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"http://keretasewamurahkuchinghq.wasap.my/\" target=\"_blank\">Book Here</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1880,7 +1880,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Price List &amp; Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Place To Go</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"http://keretasewamurahkuchinghq.wasap.my/\" target=\"_blank\">Book Here</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Price List &amp; Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Place To Go</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"http://keretasewamurahkuchinghq.wasap.my/\" target=\"_blank\">Book Here</a></li>",
           "logo": {
             "image": {
               "active": true,
